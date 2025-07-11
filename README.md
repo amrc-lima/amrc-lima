@@ -1,8 +1,6 @@
 # Olá! Sou o Eduardo Lima 👋
 
-Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB), sou um entusiasta da tecnologia apaixonado pelo desafio de transformar código em soluções inovadoras! Minha jornada vai além da sala de aula: mergulhei no universo da Inteligência Artificial e Robótica como pesquisador voluntário no ACSO/BahiaRT, onde tive a oportunidade de trabalhar com C++ e IA na liga de futebol simulado em 3D, unindo minhas paixões por programação e inovação.
-
-Com uma sólida base em fundamentos da tecnologia, incluindo algoritmos, estruturas de dados e ciclo de vida de software, busco uma oportunidade de estágio para aplicar meu pensamento analítico e minhas habilidades técnicas em projetos desafiadores na grande área de Tecnologia da Informação. Possuo inglês de nível profissional, resiliência para desvendar desafios e um forte espírito colaborativo, sempre pronto para aprender e crescer em equipes dinâmicas.
+Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB); entusiasta da tecnologia.
 
 ## 💻 Tecnologias e Ferramentas:
 
