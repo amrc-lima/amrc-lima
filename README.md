@@ -36,11 +36,6 @@ Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB);
 * Programação Orientada a Objetos
 * Segurança da Informação (Conceitos)
 
-## 🏆 Certificações
-
-* **Django: templates e boas práticas** - Alura (Nov/2024)
-* **Lógica de programação: mergulhe em programação com JavaScript** - Alura (Nov/2024)
-
 ## Minhas Estatísticas no GitHub
 
 [![Eduardo Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrc-lima&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
