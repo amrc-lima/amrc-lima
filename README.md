@@ -1,4 +1,4 @@
-# Olá! Sou o Eduardo Lima 👋
+# Olá! 👋
 
 Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB); entusiasta da tecnologia.
 
