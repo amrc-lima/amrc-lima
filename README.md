@@ -40,7 +40,3 @@ Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB);
 
 [![Eduardo Lima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrc-lima&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrc-lima&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## ✉️ Contato
-
-* **Email:** [eduardoamerico2009@gmail.com](mailto:eduardoamerico2009@gmail.com)
