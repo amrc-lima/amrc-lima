@@ -44,7 +44,3 @@ Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB);
 ## ✉️ Contato
 
 * **Email:** [eduardoamerico2009@gmail.com](mailto:eduardoamerico2009@gmail.com)
-* **LinkedIn:** [linkedin.com/in/eduardoaslima](https://www.linkedin.com/in/eduardoaslima)
-* **Localização:** Salvador, Bahia, Brasil
-
-Vamos nos conectar?
