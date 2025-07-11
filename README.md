@@ -13,28 +13,12 @@ Estudante de Sistemas de Informação na Universidade do Estado da Bahia (UNEB);
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Desenvolvimento e IA
+### Frameworks
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-* Modelos de IA
-* Análise de Dados
 
 ### Bancos de Dados
 * SQL
 * [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### Ferramentas e Versionamento
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-### Sistemas Operacionais
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-
-### Conceitos Fundamentais
-* Estruturas de Dados
-* Algoritmos
-* Programação Orientada a Objetos
-* Segurança da Informação (Conceitos)
 
 ## Minhas Estatísticas no GitHub
 
